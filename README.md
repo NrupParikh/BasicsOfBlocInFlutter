@@ -1,6 +1,20 @@
 # Basics Of Bloc In Flutter
 Flutter Bloc Pattern : Sink and Stream
 
+## Why Bloc Pattern
+
+Issue
+----
+
+- Build method called multiple time
+- Widget tree called multiple time
+
+Solution
+----
+
+- Sink (Input) and Stream(Output) concept in StreamBuilder
+- Bussiness logic to Bloc Pattern
+
 ## BLoC Pattern with Flutter | State Management
 
 ### main_block.dart
